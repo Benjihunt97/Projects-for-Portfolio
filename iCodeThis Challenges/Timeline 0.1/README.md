@@ -23,7 +23,7 @@ This project visualizes a timeline of challenges completed on the iCodeThis plat
 ## Screenshots
 
 ### Updated Design
-![Updated Design]([./my-timeline.png](https://github.com/Benjihunt97/Projects-for-Portfolio/blob/main/iCodeThis%20Challenges/Timeline%200.1/my-timeline.png))
+![Updated Design](https://github.com/Benjihunt97/Projects-for-Portfolio/blob/main/iCodeThis%20Challenges/Timeline%200.1/my-timeline.png)
 
 ### Original Design
 ![Original Design](./origonal-timeline.webp)
